@@ -1,0 +1,23 @@
+{
+  "name": "hello-wolrd-notejs",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyluhh/hello-wolrd-NoteJS.git"
+  },
+  "author": "eu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skyluhh/hello-wolrd-NoteJS/issues"
+  },
+  "homepage": "https://github.com/skyluhh/hello-wolrd-NoteJS#readme",
+  "dependencies": {
+    "delay": "^4.2.0"
+  }
+}
